@@ -14,8 +14,8 @@ const profileAvatar =
     `<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
       <defs>
         <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#4f46e5"/>
-          <stop offset="100%" stop-color="#a855f7"/>
+          <stop offset="0%" stop-color="#4941dc"/>
+          <stop offset="100%" stop-color="#520799"/>
         </linearGradient>
       </defs>
       <rect width="88" height="88" rx="44" fill="url(#g)"/>
